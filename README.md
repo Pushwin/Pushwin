@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00c8ff,100:7b2fff&height=220&section=header&text=Pushwin%20T%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Android%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%20Developer&descSize=18&descAlignY=60&descColor=a0cfff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00c8ff,100:7b2fff&height=220&section=header&text=Pushwin%20T%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Android%20%E2%80%A2%20IoT&descSize=18&descAlignY=60&descColor=a0cfff" width="100%"/>
 
 <div align="center">
 
@@ -68,7 +68,6 @@ object Pushwin {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -163,14 +162,6 @@ Wearable IoT device detecting accidents via sensors, triggering instant emergenc
 </div>
 
 ---
-
-## ◈ ACHIEVEMENTS
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pushwin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
 
 ---
 
