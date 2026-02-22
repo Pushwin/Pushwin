@@ -53,22 +53,6 @@ object Pushwin {
 
 ---
 
-## 📊 GitHub Stats
-
-![Pushwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pushwin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushwin&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pushwin&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pushwin&theme=tokyonight&no-frame=true&margin-w=10&column=4)
-
----
-
 ## 🚀 Major Projects
 
 ### 🧠 Grammar Checker
@@ -103,7 +87,7 @@ object Pushwin {
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pushwin&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pushwin&theme=tokyo-night)
 
 ---
 
